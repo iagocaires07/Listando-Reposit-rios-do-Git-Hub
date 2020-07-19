@@ -1,4 +1,4 @@
-# Listando-Reposit-rios-do-Git-Hub
+# Listando-Repositó-rios-do-Git-Hub
 Nesta aplicação eu utilizo uma API do GitHub para fazer a busca dos repositórios dos usuários a partir do seu username / In this application I use a GitHub API to search users' repositories using their username.
 
 Inicio meu scritp com uma função que retorna uma Promise. Nela utilizo a API XMLHttpRequest utilizada para fazer requisições HTTP e HTTPS. Seguindo no laço IF, verifico seu retorno e chamo as callbacks passando
